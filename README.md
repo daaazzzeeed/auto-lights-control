@@ -9,10 +9,10 @@ This application was built as a pet-project by me as an opencv and PyQT introduc
 Application has ***2 modes of motion capture***
 
 1. General motion recognition (uses whole frame to detect motion):
-<img src="screenshots/motion_capture_general.png" width="320" height="240">
+<img src="screenshots/motion_capture_general.png" width="640" height="480">
 
 2. Motion recognition with zone selection (uses zone area to detect motion):
-<img src="screenshots/motion_capture_zones.png" width="320" height="240">
+<img src="screenshots/motion_capture_zones.png" width="640" height="480">
 
 
 ### App's settings
@@ -25,3 +25,10 @@ If the light is off and zone receives motion, it will be then switched on again.
 
 
 <img src="screenshots/settings.png" width="400" height="300">
+
+
+### Controls
+
+1. Use ***mouse drag*** to select zone.
+2. Use ***e*** to activate zone based motion detection
+3. Use ***c*** to clear zones and return back to a general motion detection mode
