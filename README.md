@@ -2,7 +2,7 @@
 
 
 ## This is an automatic lights switching system based on image recognition and motion detection
-This application was built as a pet-project by me as an opencv and PyQT introduction.
+This application was built as a pet-project by me as an ***openCV*** and ***PyQT*** practice.
 
 ### App's flow
 
